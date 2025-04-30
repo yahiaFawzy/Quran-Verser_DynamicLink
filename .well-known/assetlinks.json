@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "me.tazkiah.quranmetaverse",
+        "sha256_cert_fingerprints": [
+            "39:1B:8E:C9:7F:A9:0C:5D:A9:4D:E4:1C:E6:89:40:3D:DE:EA:AD:80:45:76:C8:01:C2:68:12:8B:28:05:FF:63"
+        ]
+    }
+  }
+]
